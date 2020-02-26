@@ -1,5 +1,6 @@
 Action()
 {
+	//Just add comment
 	web_custom_request("web_custom_request",
 		"URL=www.example.com",
 		"Method=GET",
